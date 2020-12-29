@@ -22,6 +22,8 @@
   * [pkgif](https://www.pkgif.net/) (任意GIF添加字幕)
   * [ImageCyborg](https://imagecyborg.com/) (一键下载当前网页的所有图片)
   * [MarkMaker](http://emblemmatic.org/markmaker/#/) (在线 logo 随机生成工具)
+  * [Picup.AI](https://www.picup.shop/) (在线移除背景, 抠图工具，证件照，换装，形象照，电商模版，卡通化，很骚的是还有抠视频，速度很快)
+  * [Cutout.Pro](https://cutout.pro/) (在线移除背景, 抠图工具，海外的，多国护照，有点厉害)
   * [Removebg](https://www.remove.bg/) (在线移除背景工具，想改图片的背景可以用这个，证件照必备😀)
   * [SVGOMG](https://jakearchibald.github.io/svgomg/) (SVG图形压缩优化)
 
